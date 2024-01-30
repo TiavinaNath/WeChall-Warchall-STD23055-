@@ -29,7 +29,7 @@ Welcome to the Wechall Warchall Capture The Flag guide! This repository provides
 6. [Warchall: Live LFI - level14](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Live%20LFI%20-%20level14.md)
 7. [Warchall: Live RFI - level15](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Live%20RFI%20-%20level15.md)
 8. [Warchall: Live RCE - level20](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Live%20RCE%20-%20level20.md)
-9. [Warchall: Tryouts - Matrixman]()
+9. [Warchall: Tryouts - Matrixman](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Tryouts%20-%20Matrixman)
       
   
   
