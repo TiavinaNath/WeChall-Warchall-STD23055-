@@ -24,7 +24,7 @@ Welcome to the Wechall Warchall Capture The Flag guide! This repository provides
 
 2. [SSH... Z is sleeping - level08](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/SSH...%20Z%20is%20sleeping%20-%20level08.md)
 3. [Choose your Path - level10](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Choose%20your%20Path%20-%20level10.md)
-4. [Choose your Path II - level11](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Choose%20Your%20Path%20II-level11.md)
+4. [Choose your Path II - level11](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Choose%20Your%20Path%20II%20-%20level11.md)
 5. [Py-thong - level12](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Py-thong%20-%20level12.md)
 6. [Warchall: Live LFI - level14](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Live%20LFI%20-%20level14.md)
 7. [Warchall: Live RFI - level15](https://github.com/TiavinaNath/WeChall-Warchall-STD23055-/blob/main/Warchall%3A%20Live%20RFI%20-%20level15.md)
