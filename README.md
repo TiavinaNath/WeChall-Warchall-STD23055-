@@ -1,4 +1,3 @@
-# WeChall-Warchall-STD23055-
 # Wechall Warchall Capture The Flag Guide
 
 Welcome to the Wechall Warchall Capture The Flag guide! This repository provides a detailed walkthrough for each level of the Warchall CTF. Follow the instructions below to navigate through the challenges and discover the flags.
