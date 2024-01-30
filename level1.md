@@ -6,5 +6,5 @@ Explore the choice tree directory and access the solution.
 cd /home/level/01_choice_tree
 ls -alR
 cd /home/level/01_choice_tree/blue/hats/grey/solution/patience
-cat SOLUTION.txt`
+cat SOLUTION.txt
 ```
