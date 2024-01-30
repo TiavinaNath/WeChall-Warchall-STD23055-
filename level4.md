@@ -8,6 +8,6 @@ ls
 cat README.nfo
 cd ~/level/04_kwisatz
 ls -al
-chmod +r README.md
-cat README.md
+chmod +r README2.md
+cat README2.md
 ```
